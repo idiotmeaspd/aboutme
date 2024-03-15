@@ -1,0 +1,4 @@
+print("Hosanna Alemayehu") 
+print(" age = 11")
+print("grade 5")
+#you didn't think i can code
